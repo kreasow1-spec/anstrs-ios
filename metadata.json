@@ -1,0 +1,6 @@
+{
+  "name": "ANASTARS PERSONAL TATTOO",
+  "description": "ANASTARS Personal Tattoo iOS project documentation audit and bootstrap phase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
